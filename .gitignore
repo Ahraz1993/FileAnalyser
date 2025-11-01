@@ -1,0 +1,25 @@
+# 🧹 Python cache and compiled files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# 🚫 Backup directory created by the File Analyzer
+backupDir/
+
+# 📒 Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# 🧠 Virtual environment folders
+venv/
+env/
+
+# 💻 System or editor specific files
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+
+# 🧰 VS Code and JetBrains IDE configs (optional)
+.vscode/
+.idea/
